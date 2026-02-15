@@ -1,0 +1,2 @@
+# kurdi-class
+educational platform
